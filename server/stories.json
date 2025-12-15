@@ -1,1 +1,56 @@
-
+[
+  {
+    "id": 5,
+    "title": "hellop",
+    "authorId": 2,
+    "author": "abc",
+    "date": "2025-12-10T11:49:54.124Z",
+    "preview": "this is something need to check",
+    "body": "What happened:\nthis is something\n\nHow I realized it was a scam:\nneed to check",
+    "likes": []
+  },
+  {
+    "id": 4,
+    "title": "very bad ",
+    "author": "Community Member",
+    "date": "2025-12-10T05:31:13.384Z",
+    "preview": "a call came telling my daughter has been caught doing illegal things. well, my daughter was standing right infront of me.",
+    "body": "What happened:\na call came telling my daughter has been caught doing illegal things.\n\nHow I realized it was a scam:\nwell, my daughter was standing right infront of me.",
+    "likes": [
+      2
+    ],
+    "replies": [
+      {
+        "id": 1,
+        "authorId": 2,
+        "author": "abc",
+        "text": "yeah that happened to me also",
+        "createdAt": "2025-12-10T12:43:40.673Z"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Almost Lost $5,000 to Fake Tech Support",
+    "author": "Sarah M.",
+    "date": "2025-12-08T05:29:26.555Z",
+    "preview": "I received a call claiming my computer was infected. They almost convinced me to give them remote access...",
+    "body": "I received a call from someone claiming to be from \"Microsoft support\".\nThey said my computer was infected and asked me to install remote access software.\n\nRed flags I noticed:\n- They called me first (I never requested support)\n- They pushed me to act quickly\n- They wanted remote access AND payment\n\nI hung up, searched the number online, and saw lots of scam reports. That confirmed it."
+  },
+  {
+    "id": 2,
+    "title": "Spotted a Phishing Email from \"My Bank\"",
+    "author": "John D.",
+    "date": "2025-12-05T05:29:26.556Z",
+    "preview": "The email looked exactly like my bank's official emails, but the URL was slightly different...",
+    "body": "I got an email saying there was a problem with my bank account.\nThe logo and layout looked real, but the link went to \"mybank-secure-login.com\" instead of the real bank domain.\n\nI checked:\n- The sender email was a random Gmail address\n- The URL was wrong when I hovered over the button\n\nI deleted the email and logged into my bank from the official website instead. My account was fine."
+  },
+  {
+    "id": 3,
+    "title": "Package Delivery Scam Text Message",
+    "author": "Maria L.",
+    "date": "2025-12-03T05:29:26.556Z",
+    "preview": "Got a text saying I had a package waiting, but I wasn't expecting anything. Glad I checked first...",
+    "body": "I got a text message saying: \"Your package is waiting, click here to schedule delivery.\"\nThe link was a weird shortened URL and I wasn't expecting any packages.\n\nInstead of clicking:\n- I checked my usual delivery apps\n- I copied the text into Google and saw people reporting it as a scam\n\nI deleted the message and blocked the number."
+  }
+]
