@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": 1,
+    "name": "Test User",
+    "email": "test@example.com",
+    "passwordHash": "$2b$10$WmmK9rI3gWbGSflVWGbbZe0i/8u2VrKgeTOT2UPsGbUllkQdxdYN2"
+  },
+  {
+    "id": 2,
+    "name": "abc",
+    "email": "ab@gmail.com",
+    "passwordHash": "$2b$10$8QKasKDmw9NCImb9QiWss.BXbB2A5vWCXxWAZQk6Z7cAdA1yAQ94G"
+  }
+]
